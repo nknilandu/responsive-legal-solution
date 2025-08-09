@@ -42,5 +42,7 @@
 .hover-bg:hover{
   background-color: #916c40;
 }
-
+.hover-text-link:hover{
+  color: #B68C5A;
+}
 /* banner styling image gradient*/
