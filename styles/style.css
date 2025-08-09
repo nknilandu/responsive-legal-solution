@@ -39,5 +39,8 @@
 .bg-color{
   background-color: #B68C5A;
 }
+.hover-bg:hover{
+  background-color: #916c40;
+}
 
 /* banner styling image gradient*/
